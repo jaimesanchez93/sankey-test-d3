@@ -24,7 +24,6 @@
                 },
                 "label": [
                     "000xx",
-                    "000x1",
                     "General"
                 ],
                 "color": [
@@ -83,10 +82,9 @@
 
                 ],
                 "target": [
-                    2
+                    1
                 ],
                 "value": [
-                    50,
                     50
                 ],
                 "color": [
@@ -94,8 +92,7 @@
                     "rgba(0,0,96,0.2)"
                 ],
                 "label": [
-                    "stream 1",
-                    "stream 2",
+                    "stream 1"
                 ]
             }
         }],
