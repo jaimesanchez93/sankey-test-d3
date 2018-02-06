@@ -91,10 +91,12 @@
                     50
                 ],
                 "color": [
+                    "rgba(0,0,96,0.2)",
                     "rgba(0,0,96,0.2)"
                 ],
                 "label": [
-                    "stream 1"
+                    "stream 1",
+                    "stream 2",
                 ]
             }
         }],
